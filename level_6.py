@@ -36,5 +36,9 @@ while True:
 print ''.join(comments)
 
 # the next website is :www.pythonchallenge.com/pc/def/hockey.html
+# then you need to do a small quiz...
+# It is in the air, look at the letters
+# so the final answer is oxygen...
+# replace hockey with oxygen, and you will find the true site.
         
 
