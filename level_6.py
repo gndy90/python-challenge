@@ -7,6 +7,9 @@ question with zip function in python
 download a zip file
 2. download the channel.zip file and read the 
 readme file in it then to solve it.
+3. start from 90052.txt
+4. end with 'Collect the comments'
+5. use zipfile object to collect zip file comment info
 '''
 
 import zipfile
@@ -32,6 +35,6 @@ while True:
 # print the comments
 print ''.join(comments)
 
-
+# the next website is :www.pythonchallenge.com/pc/def/hockey.html
         
 
